@@ -1,5 +1,9 @@
 ## Luis Alexander Borjas Zamora 👋 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=1DA1F2&lines=Full+Stack+%2F+Backend+Developer;Python+%7C+Django+%7C+Flask+%7C+TypeScript)](https://github.com/alex22bo)
+
+Soy desarrollador **Full Stack** (con enfoque en **Backend**), apasionado por crear soluciones escalables y bien documentadas. Tengo experiencia en Python, Django, Flask, TypeScript y me encanta aprender cosas nuevas.
+
 <!--
 **alex22bo/alex22bo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
